@@ -86,7 +86,7 @@ private:
 		cout<<endl;
 	     
     	cout<<endl;
-  		cin.ignore();// https://stackoverflow.com/questions/6649852/getline-not-working-properly-what-could-be-the-reasons	
+  		cin.ignore();
         if((strcmp(ch,n))==0)
    		{
      		break;	
